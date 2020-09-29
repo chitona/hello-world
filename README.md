@@ -1,4 +1,4 @@
 # hello-world
 Learn
-Bolsunbekov
+Bolsunbeko
 Akylbek
